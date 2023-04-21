@@ -1,7 +1,7 @@
-use std::time::{Instant};
+
 
 fn main() {
-    let start =Instant::now();
+    
     let mut a:u32=2;
     //let mut count:usize = 1;
     //let mut array :[u32;10000] = [0;10000];
@@ -37,6 +37,6 @@ fn main() {
                      .collect::<Vec<String>>()
                      .join("\n");
     println!("{}", arr_str);*/
-    let end =start.elapsed();
-    println!("{}.{:000000005}s", end.as_secs(), end.subsec_nanos() / 1_000_000);
+    
+    
 }
