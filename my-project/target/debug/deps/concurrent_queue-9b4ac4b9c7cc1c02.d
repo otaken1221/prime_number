@@ -1,0 +1,11 @@
+/home/takeru/prime_number/my-project/target/debug/deps/concurrent_queue-9b4ac4b9c7cc1c02.rmeta: /home/takeru/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.2.0/src/lib.rs /home/takeru/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.2.0/src/bounded.rs /home/takeru/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.2.0/src/single.rs /home/takeru/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.2.0/src/unbounded.rs /home/takeru/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.2.0/src/sync.rs
+
+/home/takeru/prime_number/my-project/target/debug/deps/libconcurrent_queue-9b4ac4b9c7cc1c02.rlib: /home/takeru/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.2.0/src/lib.rs /home/takeru/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.2.0/src/bounded.rs /home/takeru/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.2.0/src/single.rs /home/takeru/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.2.0/src/unbounded.rs /home/takeru/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.2.0/src/sync.rs
+
+/home/takeru/prime_number/my-project/target/debug/deps/concurrent_queue-9b4ac4b9c7cc1c02.d: /home/takeru/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.2.0/src/lib.rs /home/takeru/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.2.0/src/bounded.rs /home/takeru/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.2.0/src/single.rs /home/takeru/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.2.0/src/unbounded.rs /home/takeru/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.2.0/src/sync.rs
+
+/home/takeru/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.2.0/src/lib.rs:
+/home/takeru/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.2.0/src/bounded.rs:
+/home/takeru/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.2.0/src/single.rs:
+/home/takeru/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.2.0/src/unbounded.rs:
+/home/takeru/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-2.2.0/src/sync.rs:

@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 num = "0.2.1"
+async-std = "1.10.0"
